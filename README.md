@@ -44,3 +44,59 @@ Se debe ejecutar
 export PYTHONPATH="/home/dsapandora/Documents/citic_workspace/catkin_ws/src/s_cera/env/lib/python3.5/site-packages:$PYTHONPATH"
 
 antes de cada corrida del server
+
+open ai
+https://blog.openai.com/retro-contest/
+https://contest.openai.com/2018-1/
+https://arxiv.org/pdf/1804.03720.pdf
+https://github.com/openai/retro
+
+
+retro ppo baselines
+https://blog.openai.com/openai-baselines-ppo/
+https://github.com/openai/retro-baselines
+
+
+Rainbow: Combining Improvements in Deep Reinforcement Learning
+https://arxiv.org/abs/1710.02298
+
+retro contest retrospective
+https://blog.openai.com/first-retro-contest-retrospective/
+
+
+META LEARNING SHARED HIERARCHIES
+https://arxiv.org/pdf/1710.09767.pdf)
+
+
+OpenAI retro reports
+https://medium.com/@olegmrk/openai-retro-contest-report-b870bfd014e0
+
+Policy distillation
+https://arxiv.org/pdf/1511.06295.pdf
+
+
+jerk agent
+https://github.com/olegmyrk/retro-rl/blob/master/jerk_agent.py
+
+
+dylan world model
+https://dylandjian.github.io/world-models/
+https://github.com/dylandjian/retro-contest-sonic
+
+
+Jaan altosar
+https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+
+conscale
+http://www.conscious-robots.com/consscale/
+
+
+human like behaviour
+https://www.sciencedirect.com/science/article/pii/S0957417414002759?via%3Dihub
+
+
+Soar cognitive
+https://github.com/SoarGroup/Soar
+
+cera
+http://www.conscious-robots.com/es/tag/cranium/

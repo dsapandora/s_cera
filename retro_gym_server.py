@@ -10,7 +10,6 @@ from sensor_msgs.msg import CompressedImage
 from geometry_msgs.msg import Twist
 #check world debug
 
-
 env = retro.make(game='SonicTheHedgehog-Genesis', state='GreenHillZone.Act1')
 image_pub = rospy.Publisher('world_observation/image_raw', CompressedImage, queue_size=10)
 
