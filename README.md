@@ -28,6 +28,8 @@ chmod +x viewer.py
 7. In your workspace execute: ```catkin_make``` 
 
 ## Usage
+![Imgur](https://i.imgur.com/GtFcaIG.png)
+
 1. The server will run in python 3 using the python3 env, the reason behind is the following [issues](https://stackoverflow.com/questions/43019951/after-install-ros-kinetic-cannot-import-opencv), so to run the server a export need that change the issue with opencv must run before the server execution.
 
 ```
@@ -45,6 +47,7 @@ This will open a pygame view that will allow you to control the agent in the env
 
 
 ## Topics
+![Imgur](https://i.imgur.com/csP34le.png)
 
 The server publish a compressed image topic **aka a numpy matrix** named: **world_observation/image_raw** and is subscribed to a topic named: **world_observation/cmd_vel** that is a *Twist* message. Sonic is moved with linear.x and linear.y.
 The angular and the linear.z is open for any change that you want to apply.  
