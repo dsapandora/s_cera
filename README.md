@@ -1,4 +1,8 @@
 # OpenAi ROS integration
+<video id="gif-mp4" poster="https://media.giphy.com/media/YkBoQvvVPcSGF4a9Mf/200_s.gif" style="margin:0;padding:0" width="480" height="360" autoplay="" loop="">
+            <source src="https://media.giphy.com/media/YkBoQvvVPcSGF4a9Mf/giphy.mp4" type="video/mp4">
+            Your browser does not support the mp4 video codec.
+        </video>
 
 ## Setup
 1. Clone the repo in your ros workspace.
