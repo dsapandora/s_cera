@@ -1,6 +1,6 @@
 # OpenAi ROS integration
 
-[logo]: https://media.giphy.com/media/YkBoQvvVPcSGF4a9Mf/giphy.gif "Sonic Sera"
+![logo](https://media.giphy.com/media/YkBoQvvVPcSGF4a9Mf/giphy.gif)
 
 ## Setup
 1. Clone the repo in your ros workspace.
